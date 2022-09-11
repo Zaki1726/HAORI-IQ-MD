@@ -58,7 +58,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
            hydratedButtons: [{
             urlButton: {
                displayText: 'MY WEBSITE',
-               url: 'https://pilarv2.github.io/'
+               url: 'https://s.id/1himr'
              }
 
            },
