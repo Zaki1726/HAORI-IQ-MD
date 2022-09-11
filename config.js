@@ -21,7 +21,7 @@ let fetch = require('node-fetch')
  function pickRandom(list) { 
    return list[Math.floor(Math.random() * list.length)] 
  } 
- global.owner = ['6285158866902','62831433937633', '62896255561617'] // Put your number here 
+ global.owner = ['6285817964582','6285817964582', '6285817964582'] // Put your number here 
  global.mods = [] // Want some help? 
  global.prems = [] // Premium user has unlimited limit 
  global.APIs = { // API Prefix 
@@ -60,21 +60,21 @@ let fetch = require('node-fetch')
  vinkey = 'vinko'//Kata apikey ubah jadi apikey lu dengan beli di website nya 
   
  // Sticker WM 
- global.stiker_wait = '*WAIT! | Mohon Tunggu Sebentar...*' 
- global.packname = 'Buatan Siapa?' 
- global.author = `Buatan Haori` 
- global.wm = 'ＨＡＯＲＩ　ＩＱ　ＭＤ　🌹　'  
+ global.stiker_wait = '*WAIT!...*' 
+ global.packname = 'ZhillBotz' 
+ global.author = `by @zakky` 
+ global.wm = 'Azhil Botz🍄　'  
  global.watermark = wm 
- global.linkgc = 'https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID'
-global.link = 'https://youtu.be/0CyJP3EKrf4'
-global.deslink = ''
-global.titlink = 'ＨＡＯＲＩ　ＩＱ　ＭＤ　🌹　'
-global.bodlink = '@zivfurr'
-global.linkig = 'https://instagram.com/not_pilar32'
-global.instagram = 'https://instagram.com/not_pilar32'
+ global.linkgc = 'https://chat.whatsapp.com/JyYr56yJEAFEsfY6EdNyVa'
+global.link = '-'
+global.deslink = '-'
+global.titlink = 'Zhill Botz🍄　'
+global.bodlink = '@zakky'
+global.linkig = 'https://instagram.com/zkyze_1'
+global.instagram = 'https://instagram.com/zkyze_1'
  global.botdate = `❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}` 
- global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg' 
- global.github = 'https://github.com/PilarV2' 
+ global.media = 'https://telegra.ph/file/7f7b4f18365e6c849b673.jpg' 
+ global.github = 'https://github.com/zaki1726' 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text=' 
  global.wait = '_*L O A D I N G*_' 
  global.eror = '_*Server Error*_' 
